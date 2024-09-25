@@ -31,7 +31,7 @@ Here’s a revised structure for **Point 4: Exploratory Data Analysis (EDA)**, f
 
 ---
 
-### 4. Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 **Libraries Used**:  
 For exploratory data analysis (EDA), Seaborn and Matplotlib were utilized to create visualizations that aid in understanding the dataset.
