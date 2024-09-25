@@ -25,10 +25,6 @@ The dataset contains several features related to anime characteristics, includin
 - **Categorical Variables**:  
   - One-Hot Encoding (OHE) was applied to categorical variables (e.g., media type, rating) to prepare them for the regression analysis.
 
-Here's the revised structure for **Point 5: Modeling**, with the order adjusted:
-
-Here’s a revised structure for **Point 4: Exploratory Data Analysis (EDA)**, following the format you provided:
-
 ---
 
 ###  Exploratory Data Analysis (EDA)
@@ -40,8 +36,6 @@ For exploratory data analysis (EDA), Seaborn and Matplotlib were utilized to cre
 Various plots were generated, including scatter plots, bar plots, and line plots, to explore relationships among variables and identify trends in anime ratings, genres, and production patterns.
 
 ---
-
-Let me know if you want to make any changes or if we can move on!
 
 
 ###  Modeling
@@ -57,8 +51,6 @@ The Multiple Linear Regression model was then fitted using the `scikit-learn` li
 
 **Model Accuracy**:  
 The adjusted R² value was calculated to assess the accuracy of the model and its explanatory power, considering the number of predictors used. This metric helped evaluate how well the model fits the data.
-
-Here are the key takeaways from your analysis formatted as bullet points:
 
 ---
 
