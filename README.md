@@ -90,6 +90,14 @@ The adjusted R² value was calculated to assess the accuracy of the model and it
 - For the last categorical variable (season in which anime is released), fall is used as the baseline:
     - Similar to the previous category, summer had the least average rating in the EDA, but after controlling for other factors, animes released in summer have a better average rating than others.
 
+---
+
+### Limitations and Future Scope
+
+- **Homoscedasticity**: One of the assumptions of linear regression is homoscedasticity, which was not fully satisfied in this analysis. This aspect should be examined in future analyses to ensure the reliability of the model's predictions.
+
+- **Dropped Variables**: Some variables from the original dataset were omitted due to limitations in knowledge and understanding of their potential impact. Future work could explore these variables to assess their significance and contribution to the analysis.
+
 
 
 "Thank you for taking the time to read this information!"
