@@ -27,7 +27,22 @@ The dataset contains several features related to anime characteristics, includin
 
 Here's the revised structure for **Point 5: Modeling**, with the order adjusted:
 
+Here’s a revised structure for **Point 4: Exploratory Data Analysis (EDA)**, following the format you provided:
+
 ---
+
+### 4. Exploratory Data Analysis (EDA)
+
+**Libraries Used**:  
+For exploratory data analysis (EDA), Seaborn and Matplotlib were utilized to create visualizations that aid in understanding the dataset.
+
+**Types of Visualizations**:  
+Various plots were generated, including scatter plots, bar plots, and line plots, to explore relationships among variables and identify trends in anime ratings, genres, and production patterns.
+
+---
+
+Let me know if you want to make any changes or if we can move on!
+
 
 ###  Modeling
 
